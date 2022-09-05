@@ -29,7 +29,8 @@
      </div>
      
      
-<div class="boxes">
+<div class="name_boxes">
+    <p>オリジナルブランド一覧</p>
      <div class="Top_Value">
       Top Value
       <a class ="Link" href=""> </a>
@@ -42,6 +43,29 @@
   
      <div class="Coops">
       Coop's
+      <a class ="Link" href="" ></a>
+     </div>
+</div>
+
+<div class="category_boxes">
+    <p>カテゴリ一覧</p>
+     <div class="foods">
+      食料品
+      <a class ="Link" href=""> </a>
+     </div>
+  
+     <div class="papers">
+      紙製品
+      <a class ="Link" href=""></a>
+     </div>
+  
+     <div class="cleaners">
+      掃除用品
+      <a class ="Link" href="" ></a>
+     </div>
+     
+     <div class="others">
+      その他
       <a class ="Link" href="" ></a>
      </div>
 </div>
